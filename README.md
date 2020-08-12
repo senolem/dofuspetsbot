@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/5tUaU3N.png">
 </p>
 
-DofusPetsBot is a simple bot written in AutoHotKey for Dofus Retro. It can handle up to 36 pets per instance (1 instance per type of pet), it can also double feed pets when they get another characteristic point so it takes a third of the time less to raise.
+DofusPetsBot is a simple bot written in AutoHotkey for Dofus Retro. It can handle up to 36 pets per instance (1 instance per type of pet), it can also double feed pets when they get another characteristic point so it takes a third of the time less to raise.
 
 Pros of using AHK :
 - No need to change anything when a new update comes out. 
