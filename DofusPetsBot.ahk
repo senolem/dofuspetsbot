@@ -20,7 +20,7 @@
 	Gui, Add, Edit, vUsername x52 y89 w370 h30 , %Usernameopt%
 	Gui, Add, Edit, vPassword x52 y149 w370 h30 , %Passwordopt%
 	Gui, Add, GroupBox, x22 y319 w430 h60 , Bot
-	Gui, Add, Text, x135 y9 w300 h20 , DofusPetsBot by petitepipe
+	Gui, Add, Text, x135 y9 w300 h20 , DofusPetsBot by melones
 	Gui, Add, Text, vTextControl x100 y340 w300 h30, Next feeding in : Waiting...
 	
 	if (Servopt = 1)
