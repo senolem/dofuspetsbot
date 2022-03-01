@@ -6,7 +6,7 @@ DofusPetsBot is a simple bot written in AutoHotkey for Dofus Retro. It can handl
 
 Pros of using AHK :
 - No need to change anything when a new update comes out. 
-- Undetectable since it is using the official client without any modification (of course one thing that could get you banned is a very low delay between each feeding).
+- Undetectable since it is using the official client without any modification (of course one thing that could get you banned is a very low delay between each feeding) EDIT : I actually got banned on one of my two accounts with low delay, after 2 years of use, be aware that a suspicious behavior is dangerous for your account.
 - Extremely stable and lightweight.
 
 Cons :
