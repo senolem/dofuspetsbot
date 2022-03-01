@@ -21,7 +21,7 @@ How to use?
 - Since the bot is using X and Y coordinates to act, you must customize it depending on your screen resolution (mine is 1920x1080 100% DPI so if it is the same for you, you shouldn't have to modify any XY positions except the characteristics position). You can use AHK's Window Spy or MousePosition.ahk in the repo to get your current mouse position.
 - DofusPetsBot is using screenshots to compare before and after the feeding so it knows if it has to double feed or not. Some types of pets doesn't have the characteristic value at the same coordinates, so you must adapt it depending on which type of pet you're feeding. (Line 161 and 179)
 - You must adapt the countdown before next feeding since some types of pets doesn't have the default interval (5 hours for many pets while some others have 24 hours). (Line 201 and 202)
-- You also have to take a screenshot (from your inventory) of the pet you want to feed (not the entire sprite but a piece of it like 5x5 px) and place it in a new folder named "Data".
+- You also have to take a screenshot (from your inventory) of the pet you want to feed (not the entire sprite but a piece of it like 5x5 px) and place it in a new folder named "Data". (Example here : https://github.com/senolem/dofuspetsbot/issues/1)
 
 This was my first project in AHK, so the code is quite messy !
 
